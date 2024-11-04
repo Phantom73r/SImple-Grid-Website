@@ -1,2 +1,2 @@
 Live Demo:
-https://phantom73r.github.io/SImple-Grid-Website/
+https://phantom73r.github.io/Simple-Grid-Website/
